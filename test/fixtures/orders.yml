@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: false
+  order_taken: false
+  user: one
+  restaurant: one
+  cart: one
+
+two:
+  status: false
+  order_taken: false
+  user: two
+  restaurant: two
+  cart: two
